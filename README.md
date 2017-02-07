@@ -1,0 +1,2 @@
+# seminarski
+i write code 
